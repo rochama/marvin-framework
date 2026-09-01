@@ -1,7 +1,7 @@
 {
   "name": "marvin-framework",
-  "description": "MarVinFramework — Marcus Rocha's personal toolkit of Claude Code skills, starting with a website audit checklist for SEO, accessibility, security, and code hygiene.",
-  "version": "1.0.0",
+  "description": "MarVinFramework — Marcus Rocha's personal toolkit of Claude Code skills: web-audit (SEO/accessibility/security/hygiene checklist), deploy-safety (verify the real deploy branch before merging), and changelog (dated change logs alongside a living CLAUDE.md).",
+  "version": "1.1.0",
   "author": {
     "name": "Marcus Rocha",
     "email": "marvi.rocha@outlook.com"
